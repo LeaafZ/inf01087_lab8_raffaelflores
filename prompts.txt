@@ -1,0 +1,16 @@
+=== PARTE 2 - Prompt simples ===
+Fala ai sobre otimização de algoritmos
+
+=== PARTE 2 - Prompt elaborado ===
+Preciso que você me explique detalhadamente sobre otimização de algoritmos. 
+Sou aluno de Ciencia da Computação na UFRGS e estou atualmente estudando esse conteúdo nas aulas. 
+Quero a explicação em tópicos com exemplos.
+
+=== PARTE 3 - Geração de código ===
+Crie um programa que vê se o número é par, explique o código e realize dois testes
+
+=== PARTE 4 - Prompt melhorado ===
+Preciso que você desenvolva um programa que verifica se um número é par. 
+O programa tem que ser desenvolvido em C, adiciona uma explicação leve do programa, adicione também comentários inclusos no próprio programa. 
+Dentro de programa, caso o número digitado seja 10, a resposta tem que ser "O número é par", caso o que seja digitado não seja um número, exigir que a pessoa escreva novamente o que foi pedido. 
+Restringido apenas a números menores que dez mil.
